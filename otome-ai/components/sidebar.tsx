@@ -17,7 +17,7 @@ export const Sidebar = () => {
     },
     {
       icon: BookHeart,
-      href: "/theme",
+      href: "/story",
       label: "Stories",
     },
     {

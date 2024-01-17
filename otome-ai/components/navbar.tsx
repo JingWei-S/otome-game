@@ -22,7 +22,7 @@ export const Navbar = () => {
               font.className
             )}
           >
-            talep.ai
+            tale.ai
           </h1>
         </Link>
       </div>
